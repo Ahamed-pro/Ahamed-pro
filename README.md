@@ -1,74 +1,244 @@
-<p align="center">
-  <a href="https://github.com/Ahamed-pro">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Ahamed" alt="Hello! I&#39;m Ahamed" />
-  </a>
+<div align="center">
+
+# 👋 Hello, I'm Ahamed
+
+### 💻 Software Engineering Undergraduate | Full-Stack Developer | Java Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Building+real-world+software+solutions+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+every+day+%F0%9F%8C%B1;Java+%7C+React+%7C+Node.js+%7C+JavaScript;Passionate+about+clean+and+maintainable+code" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Ahamed-pro">
+  <img src="https://img.shields.io/github/followers/Ahamed-pro?label=Followers&style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/Ahamed-pro?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Ahamed-pro?style=for-the-badge&logo=github" />
+</a>
+<a href="https://ahamedportforlio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Software Engineering undergraduate** passionate about building practical software and continuously improving my development skills.
+
+* 🎓 Studying **Software Engineering**
+* 💻 Interested in **Full-Stack Development**
+* ☕ Strong interest in **Java & Object-Oriented Programming**
+* ⚛️ Currently learning and building with **React.js & Node.js**
+* 🧠 Improving my **Data Structures & Algorithms** knowledge
+* 🛠️ Enjoy building real-world projects that solve practical problems
+* 🌱 Always learning new technologies and development practices
+* 🤝 Open to collaborating on interesting software projects
+
+> **"Build it. Break it. Learn from it. Make it better."**
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,cs,php,r" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%F0%9F%92%BB%20Software%20Developer%20%7C%20%F0%9F%9A%80%20Problem%20Solver%20%7C%20Quick%20Leaner%20%7C%20Passionate%20about%20clean%20code%2C%20open-source%2C%20and%20building%20tools%20that%20make%20life%20easier.;Software%20Engineering%20Undergraduate%20%7C%20Full-Stack%20Developer%20%7C%20Java%20%26%20JavaScript%20%F0%9F%9A%80" alt="Typing headlines" />
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### 🚀 About Me
+### ⚙️ Backend Development
 
-🌱 &nbsp;I'm currently learning **React.js , Node.js**  
-💬 &nbsp;Ask me about **java, c++, JavaScript, React, python,**
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet" />
 </p>
 
-### 🔗 Connect With Me
+### 🗄️ Databases
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nakash-ahamed/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ahamedportforlio.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:nakashuzzi02@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
 </p>
 
-### 📊 GitHub Stats
+### 🛠️ Tools & Platforms
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ahamed-pro&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ahamed-pro&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahamed-pro&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,netlify,vercel,cloudflare" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Ahamed-pro">Ahamed-pro</a></i></p>
+
+## 💡 What I Like Building
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   💻 Full-Stack Web Applications             │
+│                                              │
+│   ☕ Java Applications & OOP Projects         │
+│                                              │
+│   ⚛️ React Interfaces                         │
+│                                              │
+│   🔌 REST APIs & Backend Systems              │
+│                                              │
+│   🗄️ Database-driven Applications             │
+│                                              │
+│   🚀 Practical Software Solutions             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 🌟 Featured Projects
+
+### 🚗 Drink & Safe Drive Home
+
+A driver-only platform designed to help people safely get home by connecting them with trusted drivers.
+
+**Tech:** React • Node.js • Firebase • Leaflet
+
+**Key Features:**
+
+* 📍 Location-based driver services
+* 🚗 Driver pre-booking
+* 👨‍✈️ Admin driver management
+* 🗺️ Interactive maps
+* 💰 Distance-based pricing
+* 📱 Call & WhatsApp booking
+* ⭐ Customer feedback system
+
+---
+
+### 🌦️ Weather Application
+
+A weather application developed to display weather information using a clean and simple interface.
+
+**Tech:** Java
+
+---
+
+### 🎓 Student Management System
+
+A management system designed to handle student information and administrative operations.
+
+**Tech:** Java • MySQL
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ahamed-pro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ea043&icon_color=2ea043&count_private=true" />
+
+<img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ahamed-pro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ea043&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ahamed-pro&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahamed-pro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahamed-pro&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+React.js          ███████████████░░░░░  Learning
+Node.js           █████████████░░░░░░░  Learning
+Data Structures   ███████████░░░░░░░░░  Improving
+System Design     ████████░░░░░░░░░░░░  Exploring
+Cloud & DevOps    ██████░░░░░░░░░░░░░░  Exploring
+```
+
+---
+
+## 📚 Development Interests
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-2ea043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-2ea043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database%20Design-2ea043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-2ea043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean%20Code-2ea043?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nakash-ahamed/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://ahamedportforlio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:nakashuzzi02@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Feel free to explore my repositories and connect with me.**
+
+<img src="https://komarev.com/ghpvc/?username=Ahamed-pro&label=Profile%20Views&color=2ea043&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:2ea043&height=120&section=footer" />
+
+</div>
