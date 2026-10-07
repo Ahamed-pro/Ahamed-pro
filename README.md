@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Ahamed
 
-### 💻 Software Engineering Undergraduate | Full-Stack Developer | Java Developer
+### 💻 Software Engineer | Java Developer | Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Building+real-world+software+solutions+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+every+day+%F0%9F%8C%B1;Java+%7C+React+%7C+Node.js+%7C+JavaScript;Passionate+about+clean+and+maintainable+code" alt="Typing SVG" />
 
@@ -24,15 +24,13 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering undergraduate** passionate about building practical software and continuously improving my development skills.
+I'm a **Software Engineering graduate** from Badulla, Sri Lanka, with hands-on experience building Java applications and full-stack web applications. I'm looking for a Software Engineer, Java Developer, or internship role where I can contribute to real-world software and keep growing in backend and full-stack engineering.
 
-* 🎓 Studying **Software Engineering**
-* 💻 Interested in **Full-Stack Development**
-* ☕ Strong interest in **Java & Object-Oriented Programming**
-* ⚛️ Currently learning and building with **React.js & Node.js**
+* 🎓 Higher Diploma in Computing & Software Engineering — ICBT Campus (Cardiff Metropolitan University)
+* ☕ Strong foundation in **Java & Object-Oriented Programming**
+* ⚛️ Building full-stack apps with **React.js, Node.js & Express.js**
+* 🔌 Experience with REST APIs, authentication, role-based access and database-driven systems
 * 🧠 Improving my **Data Structures & Algorithms** knowledge
-* 🛠️ Enjoy building real-world projects that solve practical problems
-* 🌱 Always learning new technologies and development practices
 * 🤝 Open to collaborating on interesting software projects
 
 > **"Build it. Break it. Learn from it. Make it better."**
@@ -44,90 +42,92 @@ I'm a **Software Engineering undergraduate** passionate about building practical
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp,cs,php,r" />
+<img src="https://skillicons.dev/icons?i=java,js,cpp,php,cs" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,netlify,vercel,cloudflare" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,netlify" />
 </p>
-
----
-
-## 💡 What I Like Building
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   💻 Full-Stack Web Applications             │
-│                                              │
-│   ☕ Java Applications & OOP Projects         │
-│                                              │
-│   ⚛️ React Interfaces                         │
-│                                              │
-│   🔌 REST APIs & Backend Systems              │
-│                                              │
-│   🗄️ Database-driven Applications             │
-│                                              │
-│   🚀 Practical Software Solutions             │
-│                                              │
-└──────────────────────────────────────────────┘
-```
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🚗 Drink & Safe Drive Home
+### 🚗 Drink & Safe Drive Home — Full-Stack Web Application
 
-A driver-only platform designed to help people safely get home by connecting them with trusted drivers.
+A driver-only pre-booking platform that connects customers with professional drivers who drive them home in their own vehicles.
 
-**Tech:** React • Node.js • Firebase • Leaflet
+**Tech:** React.js • Vite • Tailwind CSS • Node.js • Express.js • Firebase Auth • Firestore • Leaflet
 
-**Key Features:**
-
-* 📍 Location-based driver services
-* 🚗 Driver pre-booking
-* 👨‍✈️ Admin driver management
-* 🗺️ Interactive maps
+* 📍 Location-based services and interactive maps
+* 🚗 Booking workflow and driver pre-booking
+* 👨‍✈️ Admin dashboard for bookings, drivers, pricing and service info
 * 💰 Distance-based pricing
 * 📱 Call & WhatsApp booking
 * ⭐ Customer feedback system
 
 ---
 
-### 🌦️ Weather Application
+### 🔧 Fixigo — Vehicle Assistance Platform
 
-A weather application developed to display weather information using a clean and simple interface.
+A full-stack platform connecting vehicle owners with workshops for roadside and vehicle-related assistance.
 
-**Tech:** Java
+**Tech:** PHP • MySQL • JavaScript • HTML5 • CSS3 • PHPMailer
+
+* User registration, authentication and password reset
+* Workshop management, reviews and contact forms
+* Email functionality via PHPMailer
 
 ---
 
-### 🎓 Student Management System
+### 👨‍💼 Employee Management System — Java Desktop App
 
-A management system designed to handle student information and administrative operations.
+A Java Swing application for managing employee and organizational records.
 
-**Tech:** Java • MySQL
+**Tech:** Java • OOP • Java Swing • Maven
+
+* Full CRUD: add, update, delete, search and view employees
+* Applies encapsulation, inheritance and polymorphism
+* Separate modules for departments, designations and employee records
+
+---
+
+### 🌦️ Weather Information System — Java Application
+
+A Java application that retrieves real-time weather for user-specified locations.
+
+**Tech:** Java • REST API • JSON
+
+* External weather API integration with JSON parsing
+* Graphical interface for searching and displaying weather data
+
+---
+
+### 📚 C++ Book Management System
+
+A console-based application for viewing, adding and ordering books, with file-based storage.
+
+**Tech:** C++ • File Handling • Arrays • Formatted I/O
 
 ---
 
@@ -153,16 +153,6 @@ A management system designed to handle student information and administrative op
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahamed-pro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -175,13 +165,9 @@ A management system designed to handle student information and administrative op
 
 ## 🎯 Currently Learning
 
-```text
-React.js          ███████████████░░░░░  Learning
-Node.js           █████████████░░░░░░░  Learning
-Data Structures   ███████████░░░░░░░░░  Improving
-System Design     ████████░░░░░░░░░░░░  Exploring
-Cloud & DevOps    ██████░░░░░░░░░░░░░░  Exploring
-```
+* React.js & Node.js — deepening full-stack skills
+* Data Structures & Algorithms
+* System Design, Cloud & DevOps (exploring)
 
 ---
 
@@ -214,16 +200,6 @@ Cloud & DevOps    ██████░░░░░░░░░░░░░░  
 <a href="mailto:nakashuzzi02@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
