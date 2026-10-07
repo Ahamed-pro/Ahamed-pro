@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering graduate** from Badulla, Sri Lanka, with hands-on experience building Java applications and full-stack web applications. I'm looking for a Software Engineer, Java Developer, or internship role where I can contribute to real-world software and keep growing in backend and full-stack engineering.
+I'm a **Software Engineering professional**, Sri Lanka, with hands-on experience building Java applications and full-stack web applications. I'm looking for a Software Engineer, Java Developer, or internship role where I can contribute to real-world software and keep growing in backend and full-stack engineering.
 
 * 🎓 Higher Diploma in Computing & Software Engineering — ICBT Campus (Cardiff Metropolitan University)
 * ☕ Strong foundation in **Java & Object-Oriented Programming**
